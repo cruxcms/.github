@@ -6,10 +6,6 @@
   **A flexible, self-hosted headless CMS built on Next.js, SQLite/Turso, and TypeScript.**
   No cloud lock-in. No per-seat pricing. Runs anywhere Node.js runs.
 
-  [**core**](https://github.com/cruxcms/core) — the CMS itself (admin UI, REST API, auth)
-  &nbsp;·&nbsp;
-  [**starter**](https://github.com/cruxcms/starter) — a minimal example app to clone
-
 </div>
 
 ---
