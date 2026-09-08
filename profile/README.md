@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" width="96" height="96" alt="Crux CMS logo" />
+  <img src="logomark-github.svg" width="96" height="96" alt="Crux CMS logo" />
 
   # Crux CMS
 
